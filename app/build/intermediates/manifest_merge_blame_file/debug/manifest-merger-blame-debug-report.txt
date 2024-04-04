@@ -1,0 +1,93 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lakj.comspace.simpletextclient"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:7:5-8:41
+8        android:minSdkVersion="19"
+8-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:7:5-8:41
+9        android:targetSdkVersion="23" />
+9-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:8:9-38
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:10:5-67
+11-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:10:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15
+16    <application
+16-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:16:5-53:19
+17        android:allowBackup="true"
+17-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:17:9-35
+18        android:debuggable="true"
+19        android:icon="@drawable/applogo"
+19-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:18:9-41
+20        android:label="@string/app_name"
+20-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:19:9-41
+21        android:testOnly="true"
+22        android:theme="@android:style/Theme.NoTitleBar" >
+22-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:20:9-56
+23        <activity
+23-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:21:9-24:20
+24            android:name="com.lakj.comspace.simpletextclient.SlimpleTextClientActivity"
+24-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:22:13-54
+25            android:label="@string/app_name" >
+25-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:23:13-45
+26        </activity>
+27        <activity
+27-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:25:9-33:20
+28            android:name="com.lakj.comspace.simpletextclient.VirtualWaitress"
+28-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:26:13-44
+29            android:label="@string/title_activity_virtual_waitress" >
+29-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:27:13-68
+30            <intent-filter>
+30-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:28:13-32:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:29:17-69
+31-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:29:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:31:17-77
+33-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:31:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.lakj.comspace.simpletextclient.Order_Type" >
+36-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:34:9-35:20
+36-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:34:19-45
+37        </activity>
+38        <activity android:name="com.lakj.comspace.simpletextclient.Starters" >
+38-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:36:9-37:20
+38-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:36:19-43
+39        </activity>
+40        <activity android:name="com.lakj.comspace.simpletextclient.Veg" >
+40-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:38:9-39:20
+40-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:38:19-38
+41        </activity>
+42        <activity android:name="com.lakj.comspace.simpletextclient.N_Veg" >
+42-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:40:9-41:20
+42-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:40:19-40
+43        </activity>
+44        <activity android:name="com.lakj.comspace.simpletextclient.Dessert" >
+44-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:42:9-43:20
+44-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:42:19-42
+45        </activity>
+46        <activity
+46-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:45:9-48:20
+47            android:name="com.lakj.comspace.simpletextclient.finalize_order"
+47-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:46:13-43
+48            android:label="@string/title_activity_finalize_order" >
+48-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:47:13-66
+49        </activity>
+50        <activity
+50-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:49:9-52:20
+51            android:name="com.lakj.comspace.simpletextclient.thankyou"
+51-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:50:13-37
+52            android:label="@string/title_activity_thankyou" >
+52-->D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:51:13-60
+53        </activity>
+54    </application>
+55
+56</manifest>

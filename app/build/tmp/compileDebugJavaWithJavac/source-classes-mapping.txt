@@ -1,0 +1,34 @@
+com/lakj/comspace/simpletextclient/Order_Type.java
+ com.lakj.comspace.simpletextclient.Order_Type
+ com.lakj.comspace.simpletextclient.Order_Type$1
+ com.lakj.comspace.simpletextclient.Order_Type$2
+com/lakj/comspace/simpletextclient/thankyou.java
+ com.lakj.comspace.simpletextclient.thankyou
+com/lakj/comspace/simpletextclient/Veg.java
+ com.lakj.comspace.simpletextclient.Veg
+ com.lakj.comspace.simpletextclient.Veg$1
+ com.lakj.comspace.simpletextclient.Veg$2
+com/lakj/comspace/simpletextclient/finalize_order.java
+ com.lakj.comspace.simpletextclient.finalize_order
+ com.lakj.comspace.simpletextclient.finalize_order$1
+ com.lakj.comspace.simpletextclient.finalize_order$2
+ com.lakj.comspace.simpletextclient.finalize_order$SendMessage
+com/lakj/comspace/simpletextclient/Starters.java
+ com.lakj.comspace.simpletextclient.Starters
+ com.lakj.comspace.simpletextclient.Starters$1
+ com.lakj.comspace.simpletextclient.Starters$2
+com/lakj/comspace/simpletextclient/BuildConfig.java
+ com.lakj.comspace.simpletextclient.BuildConfig
+com/lakj/comspace/simpletextclient/Dessert.java
+ com.lakj.comspace.simpletextclient.Dessert
+ com.lakj.comspace.simpletextclient.Dessert$1
+ com.lakj.comspace.simpletextclient.Dessert$2
+com/lakj/comspace/simpletextclient/VirtualWaitress.java
+ com.lakj.comspace.simpletextclient.VirtualWaitress
+ com.lakj.comspace.simpletextclient.VirtualWaitress$1
+com/lakj/comspace/simpletextclient/SlimpleTextClientActivity.java
+ com.lakj.comspace.simpletextclient.SlimpleTextClientActivity
+com/lakj/comspace/simpletextclient/N_Veg.java
+ com.lakj.comspace.simpletextclient.N_Veg
+ com.lakj.comspace.simpletextclient.N_Veg$1
+ com.lakj.comspace.simpletextclient.N_Veg$2

@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\AQUIB HUSAIN\.gradle\caches\transforms-2\files-2.1\bf9044b2d3118fc9d4692c7cb0265224\support-v4-23.0.1\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:7:5-8:41
+INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:7:5-8:41
+INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:7:5-8:41
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\AQUIB HUSAIN\.gradle\caches\transforms-2\files-2.1\bf9044b2d3118fc9d4692c7cb0265224\support-v4-23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\AQUIB HUSAIN\.gradle\caches\transforms-2\files-2.1\bf9044b2d3118fc9d4692c7cb0265224\support-v4-23.0.1\AndroidManifest.xml:20:5-43
+INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:7:5-8:41
+INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:7:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:7:5-8:41
+		INJECTED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:10:22-64
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:12:5-89
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:12:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:13:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:14:30-85
+application
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:16:5-53:19
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\AQUIB HUSAIN\.gradle\caches\transforms-2\files-2.1\bf9044b2d3118fc9d4692c7cb0265224\support-v4-23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\AQUIB HUSAIN\.gradle\caches\transforms-2\files-2.1\bf9044b2d3118fc9d4692c7cb0265224\support-v4-23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:20:9-56
+activity#com.lakj.comspace.simpletextclient.SlimpleTextClientActivity
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:21:9-24:20
+	android:label
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:22:13-54
+activity#com.lakj.comspace.simpletextclient.VirtualWaitress
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:27:13-68
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:26:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.lakj.comspace.simpletextclient.Order_Type
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:34:9-35:20
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:34:19-45
+activity#com.lakj.comspace.simpletextclient.Starters
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:36:9-37:20
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:36:19-43
+activity#com.lakj.comspace.simpletextclient.Veg
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:38:9-39:20
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:38:19-38
+activity#com.lakj.comspace.simpletextclient.N_Veg
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:40:19-40
+activity#com.lakj.comspace.simpletextclient.Dessert
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:42:19-42
+activity#com.lakj.comspace.simpletextclient.finalize_order
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:45:9-48:20
+	android:label
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:46:13-43
+activity#com.lakj.comspace.simpletextclient.thankyou
+ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:49:9-52:20
+	android:label
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:51:13-60
+	android:name
+		ADDED from D:\Android-Food-Ordering-System-master\app\src\main\AndroidManifest.xml:50:13-37
